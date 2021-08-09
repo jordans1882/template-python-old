@@ -1,0 +1,9 @@
+playground/
+_build/
+template_python.egg-info/
+.tox/
+tests/.coverage
+*/.mypy_cache
+*/.ipynb_checkpoints
+*/__pycache__
+tests/benchmarks/__pycache__/*
